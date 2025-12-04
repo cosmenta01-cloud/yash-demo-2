@@ -1,1 +1,1 @@
-const API_URL = 'https://new-apiasdasd.example.com';
+const API_URL = 'https://example.com';
