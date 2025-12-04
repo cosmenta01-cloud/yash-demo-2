@@ -1,1 +1,1 @@
-# Updated 4 README content
+const DB_HOST = 'new-db-host.com';
